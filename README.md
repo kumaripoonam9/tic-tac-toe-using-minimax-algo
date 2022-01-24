@@ -4,7 +4,7 @@ Python code for Tic-Tac-Toe game between computer and user using minimax algorit
 
 ### Algorithm
 
-Algorithm for minimax for the game
+Minimax algorithm is a type of adversarial serach. Adversarial search is a type of search widely in competitive games like tic-tac-toe, chess etc where the final result depends upon the moves of the opponent.
 
 ```
 function minimax(board, player):
@@ -34,3 +34,8 @@ end if
 end function
 ```
 
+### Snapshots of game
+
+(AI player wins)
+![snap1](https://user-images.githubusercontent.com/65129334/150751966-daa49acc-57bf-4a5a-ad68-ee7055632afa.png)
+![snap2](https://user-images.githubusercontent.com/65129334/150752173-32c67ee2-7688-4588-9dcc-d972152dacbb.png)
